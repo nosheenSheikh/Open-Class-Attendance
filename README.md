@@ -14,3 +14,13 @@ This would reduce complexity.
 
 Technology Stack:
 Python,OpenCV,Intel CV SDK
+
+Android:
+Neeraj Yadav
+Ishan Malhara
+Ruchi Goswami
+
+Python:
+Nosheen
+Dhruv
+Prateek
